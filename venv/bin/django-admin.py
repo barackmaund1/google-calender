@@ -1,4 +1,4 @@
-#!/home/moringa/Desktop/calender/venv/bin/python3
+#!/home/moringa/Desktop/django-projects/calender/venv/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
